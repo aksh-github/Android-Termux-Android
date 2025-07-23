@@ -30,11 +30,11 @@ ssh -p 8022 user@hostname_or_ip
 
 ## Install Linux distro on Termux
 
-	https://youtu.be/9_xUs6CEtVc?si=0HMJ795uduwTvgEc
+https://youtu.be/9_xUs6CEtVc?si=0HMJ795uduwTvgEc
 
-	https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/proot/alpine_proot.md#-first-steps-
+https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/proot/alpine_proot.md#-first-steps-
 
-	Once installed we can login using
+Once installed we can login using
  
 ```
 pd login alpine
