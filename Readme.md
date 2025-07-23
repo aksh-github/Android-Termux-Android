@@ -34,6 +34,9 @@ https://youtu.be/9_xUs6CEtVc?si=0HMJ795uduwTvgEc
 
 https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/proot/alpine_proot.md#-first-steps-
 
+### Install Dir for distro
+/data/data/com.termux/files/usr/var/lib/proot-distro/installed-rootfs
+
 Once installed we can login using
  
 ```
