@@ -22,6 +22,7 @@ You can login to termux like
 	Using the SSH client
 
 	Gen. cmd will be: 
+ 
 ```
 	ssh -p 8022 user@hostname_or_ip
 ```
