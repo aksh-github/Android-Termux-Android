@@ -11,6 +11,7 @@ Follow the cmds from
 	section: Setting up password authentication
 
 To start ssh on termux
+
 ```
 	sshd
 ```
@@ -19,12 +20,12 @@ To start ssh on termux
 
 You can login to termux like
 	https://wiki.termux.com/wiki/Remote_Access
-	Using the SSH client
+Using the SSH client
 
-	Gen. cmd will be: 
+Gen. cmd will be: 
  
 ```
-	ssh -p 8022 user@hostname_or_ip
+ssh -p 8022 user@hostname_or_ip
 ```
 
 ## Install Linux distro on Termux
@@ -34,21 +35,24 @@ You can login to termux like
 	https://github.com/LinuxDroidMaster/Termux-Desktops/blob/main/Documentation/proot/alpine_proot.md#-first-steps-
 
 	Once installed we can login using
+ 
 ```
-	pd login alpine
+pd login alpine
 ```
 
 	Update and upgrade the default packages:
+ 
 ```
-	apk update
-	apk upgrade
+apk update
+apk upgrade
 ```
 
   Add user
+
   
-```  
-	adduser droidmaster
-	nano /etc/sudoers
+```
+adduser droidmaster
+nano /etc/sudoers
 ```
 
 	Add the following line to the sudoers file:
