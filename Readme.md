@@ -63,3 +63,9 @@ nano /etc/sudoers
  ```
 	droidmaster All=(ALL:ALL) ALL
 ```
+
+### Install ngrok in termux directly
+
+Follow steps on https://github.com/JesusChapman/termux-ngrok
+
+Typically do NOT replace or modify open ssh install / version.
